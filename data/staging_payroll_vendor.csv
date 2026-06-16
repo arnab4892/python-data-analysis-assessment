@@ -1,0 +1,8 @@
+employee_code,pay_period,gross_pay,tax,deductions,net_pay,source_file
+EMP002,2025-03,150000.0,30000.0,8000.0,112000.0,vendor_payroll_2025_03.csv
+EMP002,2025-03,150000.0,30000.0,8000.0,112000.0,vendor_payroll_2025_03.csv
+EMP003,2025-03,92000.0,13800.0,5000.0,73200.0,vendor_payroll_2025_03.csv
+,2025-03,88000.0,13200.0,4000.0,70800.0,vendor_payroll_2025_03.csv
+EMP006,2025-03,95000.0,14250.0,5000.0,90000.0,vendor_payroll_2025_03.csv
+EMP010,2025-03,-130000.0,26000.0,7000.0,97000.0,vendor_payroll_2025_03.csv
+EMP011,2025-03,88000.0,13200.0,4000.0,,vendor_payroll_2025_03.csv

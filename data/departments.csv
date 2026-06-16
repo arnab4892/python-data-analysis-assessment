@@ -1,0 +1,7 @@
+department_id,department_name,cost_center
+10,Engineering,CC-100
+20,Finance,CC-200
+30,Human Resources,CC-300
+40,Sales,CC-400
+50,Operations,CC-500
+60,Legal,CC-600

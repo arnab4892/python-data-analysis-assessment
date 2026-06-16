@@ -1,0 +1,15 @@
+employee_id,employee_code,first_name,last_name,department_id,department,manager_id,hire_date,status,location
+1,EMP001,Asha,Mehta,10,Engineering,,2017-03-01,Active,Noida
+2,EMP002,Rahul,Khanna,10,Engineering,1,2018-06-15,Active,Noida
+3,EMP003,Priya,Sharma,10,Engineering,2,2020-01-20,Active,Bengaluru
+4,EMP004,Vikram,Singh,10,Engineering,2,2021-09-10,Active,Bengaluru
+5,EMP005,Neha,Gupta,20,Finance,1,2019-04-05,Active,Noida
+6,EMP006,Arjun,Verma,20,Finance,5,2020-11-11,Active,Gurgaon
+7,EMP007,Sneha,Iyer,20,Finance,5,2022-02-28,Active,Gurgaon
+8,EMP008,Karan,Malhotra,30,Human Resources,1,2018-08-19,Active,Delhi
+9,EMP009,Divya,Nair,30,Human Resources,8,2023-01-09,Active,Delhi
+10,EMP010,Rohit,Bansal,40,Sales,1,2019-07-22,Active,Mumbai
+11,EMP011,Pooja,Reddy,40,Sales,10,2021-03-14,Active,Mumbai
+12,EMP012,Aman,Joshi,40,Sales,10,2022-10-01,Terminated,Mumbai
+13,EMP013,Isha,Kapoor,50,Operations,1,2020-05-30,Active,Noida
+14,EMP014,Manish,Yadav,50,Operations,13,2021-12-06,Active,Noida
